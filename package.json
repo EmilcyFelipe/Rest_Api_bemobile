@@ -2,9 +2,12 @@
   "devDependencies": {
     "json-server": "^0.17.0"
   },
+  "scripts": {
+    "start":"node ./server.js"
+  },
   "name": "Rest_Api_bemobile",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "repository": "https://github.com/EmilcyFelipe/Rest_Api_bemobile.git",
   "author": "Felipe de Paula <emilcyfelipe@gmail.com>",
   "license": "MIT"

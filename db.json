@@ -1,0 +1,44 @@
+{
+    "collaborators":[{
+        "name": "Alma",
+        "role": "Secretária",
+        "launchDate": 1665242725240,
+        "phoneNumber": "5561999772473"
+      },
+      {
+        "name": "Fernanda",
+        "role": "Front-end",
+        "launchDate": 1665242725240,
+        "phoneNumber": "5561992342473"
+      },
+      {
+        "name": "Giovana L. Arruda",
+        "role": "Back-end",
+        "launchDate": 1665242725240,
+        "phoneNumber": "5561983232473"
+      },
+      {
+        "name": "Marcia",
+        "role": "TeamLeader",
+        "launchDate": 1665242725240,
+        "phoneNumber": "5561975342473"
+      },
+      {
+        "name": "Maria",
+        "role": "Front-end",
+        "launchDate": 1665242725240,
+        "phoneNumber": "5564998431273"
+      },
+      {
+        "name": "Lucas",
+        "role": "Scrum-master",
+        "launchDate": 1665242725240,
+        "phoneNumber": "5562986652473"
+      },
+      {
+        "name": "Felipe",
+        "role": "Cientista",
+        "launchDate": 1665242725240,
+        "phoneNumber": "5563988752473"
+      }]
+}

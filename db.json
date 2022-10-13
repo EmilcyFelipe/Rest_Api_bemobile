@@ -3,42 +3,49 @@
         "name": "Alma",
         "role": "Secretária",
         "launchDate": 1665242725240,
-        "phoneNumber": "5561999772473"
+        "phoneNumber": "5561999772473",
+        "imageUrl": "https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%2002.png?raw=true"
       },
       {
         "name": "Fernanda",
         "role": "Front-end",
         "launchDate": 1665242725240,
-        "phoneNumber": "5561992342473"
+        "phoneNumber": "5561992342473",
+        "imageUrl": "https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%2003.png?raw=true"
       },
       {
         "name": "Giovana L. Arruda",
         "role": "Back-end",
         "launchDate": 1665242725240,
-        "phoneNumber": "5561983232473"
+        "phoneNumber": "5561983232473",
+        "imageUrl": "https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%2004.png?raw=true"
       },
       {
         "name": "Marcia",
         "role": "TeamLeader",
         "launchDate": 1665242725240,
-        "phoneNumber": "5561975342473"
+        "phoneNumber": "5561975342473",
+        "imageUrl": "https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%2002.png?raw=true"
       },
       {
         "name": "Maria",
         "role": "Front-end",
         "launchDate": 1665242725240,
-        "phoneNumber": "5564998431273"
+        "phoneNumber": "5564998431273",
+        "imageUrl": "https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%2002.png?raw=true"
       },
       {
         "name": "Lucas",
         "role": "Scrum-master",
         "launchDate": 1665242725240,
-        "phoneNumber": "5562986652473"
+        "phoneNumber": "5562986652473",
+        "imageUrl": "https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%201.png?raw=true"
       },
       {
         "name": "Felipe",
         "role": "Cientista",
         "launchDate": 1665242725240,
-        "phoneNumber": "5563988752473"
+        "phoneNumber": "5563988752473",
+        "imageUrl":"https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%2005.png?raw=true"
       }]
 }

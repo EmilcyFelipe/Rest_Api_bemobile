@@ -1,13 +1,13 @@
 {
     "collaborators":[{
-        "name": "Alma",
+        "name": "Alexania Lima",
         "role": "Secretária",
         "launchDate": 1665242725240,
         "phoneNumber": "5561999772473",
         "imageUrl": "https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%2002.png?raw=true"
       },
       {
-        "name": "Fernanda",
+        "name": "Fernanda Martins",
         "role": "Front-end",
         "launchDate": 1665242725240,
         "phoneNumber": "5561992342473",
@@ -21,31 +21,68 @@
         "imageUrl": "https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%2004.png?raw=true"
       },
       {
-        "name": "Marcia",
+        "name": "Marcia Fernades",
         "role": "TeamLeader",
         "launchDate": 1665242725240,
         "phoneNumber": "5561975342473",
-        "imageUrl": "https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%2002.png?raw=true"
+        "imageUrl": "https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%2008.png?raw=true"
       },
       {
-        "name": "Maria",
+        "name": "Maria de Paula",
         "role": "Front-end",
         "launchDate": 1665242725240,
         "phoneNumber": "5564998431273",
-        "imageUrl": "https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%2002.png?raw=true"
+        "imageUrl": "https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%2012.png?raw=true"
       },
       {
-        "name": "Lucas",
+        "name": "Lucas de Assis",
         "role": "Scrum-master",
         "launchDate": 1665242725240,
         "phoneNumber": "5562986652473",
         "imageUrl": "https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%201.png?raw=true"
       },
       {
-        "name": "Felipe",
+        "name": "Felipe Moraes",
         "role": "Cientista",
         "launchDate": 1665242725240,
         "phoneNumber": "5563988752473",
         "imageUrl":"https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%2005.png?raw=true"
-      }]
+      },
+      {
+        "name": "Matheus Henrique",
+        "role": "Ator",
+        "launchDate": 1665242725240,
+        "phoneNumber": "5563988752473",
+        "imageUrl":"https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%2006.png?raw=true"
+      },
+      {
+        "name": "Luiz Almeida",
+        "role": "Produtor",
+        "launchDate": 1665242725240,
+        "phoneNumber": "5534948251473",
+        "imageUrl":"https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%2007.png?raw=true"
+      },
+      {
+        "name": "Thiago Jorge",
+        "role": "Professor",
+        "launchDate": 1665242725240,
+        "phoneNumber": "5577912541273",
+        "imageUrl":"https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%2009.png?raw=true"
+      },
+      {
+        "name": "Fatima Lopes",
+        "role": "Nutricionista",
+        "launchDate": 1665245725240,
+        "phoneNumber": "5521966346573",
+        "imageUrl":"https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%2010.png?raw=true"
+      },
+      {
+        "name": "Amanda Felix",
+        "role": "Cientista",
+        "launchDate": 1665242525240,
+        "phoneNumber": "5521933653465",
+        "imageUrl":"https://github.com/EmilcyFelipe/Rest_Api_bemobile/blob/master/assets/Photo%20-%2011.png?raw=true"
+      }
+    
+    ]
 }

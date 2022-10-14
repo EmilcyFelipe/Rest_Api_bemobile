@@ -3,8 +3,9 @@
 # BeMobile
 
 ## Sobre
-Trata-se de uma aplicação criada para o consumo da api que será hospedada no Heroku para o  teste do BeMobile [BeMobile](https://github.com/BeMobile/desafio-mobile)
-[Heroku](https://rest-api-bemobile.herokuapp.com/collaborators)
+Trata-se de uma aplicação criada para uma simulação de api que será hospedada no Heroku para o  teste do BeMobile 
+- [BeMobile](https://github.com/BeMobile/desafio-mobile)
+- [Heroku](https://rest-api-bemobile.herokuapp.com/collaborators)
 
 ## Pré-requisitos
 - Node.js 

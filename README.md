@@ -1,6 +1,5 @@
-# Rest_Api_bemobile
+# Rest Api Bemobile
 
-# BeMobile
 
 ## Sobre
 Trata-se de uma aplicação criada para uma simulação de api que será hospedada no Heroku para o  teste do BeMobile 
